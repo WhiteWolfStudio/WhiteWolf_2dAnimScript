@@ -5,7 +5,6 @@
     * ```setFrame( int frame )```
     * ```plusFrame()```
 
-<br />
 <hr />
 <br />
 
