@@ -30,6 +30,9 @@ namespace WhiteWolf {
         public void SetFrame( int frame ) => this.frame = frame;
         public void PlusFrame() => this.frame += 1;
 
+        public void AnimEnd() => frame = 0;
+        public void AnimEndN( int frame ) => this.frame = frame;
+
     }
 
 }
